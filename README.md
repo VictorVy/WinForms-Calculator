@@ -1,6 +1,6 @@
 # WinForms-Calculator
-Used C# Windows Forms. Super basic.
+Used C# with Windows Forms.
 
-Made this super basic and immature calculator app a year ago, with C#.
-Almost zero features compared to my java app.
+Very basic calculator done with C#.
+Minimal features compared to the java calculator.
 Project files yet to be found.
